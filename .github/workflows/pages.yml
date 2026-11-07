@@ -38,6 +38,9 @@ jobs:
           hugo --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
+      - name: Fix GitHub Pages asset paths
+        run: python3 scripts/fix_github_pages_paths.py
+
       - name: Upload site
         uses: actions/upload-pages-artifact@v4
         with:

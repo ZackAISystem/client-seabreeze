@@ -1,0 +1,535 @@
+{
+  "brand": {
+    "name": "Sea Breeze",
+    "logo_header": "/img/header-logo.png",
+    "logo_footer": "/img/footer-logo.png"
+  },
+  "contacts": {
+    "phone": {
+      "label": "+994 12 311 02 68",
+      "href": "tel:+994123110268"
+    },
+    "email": {
+      "label": "sales@seabreeze.az",
+      "href": "mailto:sales@seabreeze.az"
+    }
+  },
+  "whatsapp": {
+    "phone": "994123110268"
+  },
+  "wa_routing": {
+    "ru": {
+      "phones": [
+        "994123110268"
+      ]
+    },
+    "en": {
+      "phones": [
+        "994123110268"
+      ]
+    },
+    "ar": {
+      "phones": [
+        "994123110268"
+      ]
+    },
+    "hi": {
+      "phones": [
+        "994123110268"
+      ]
+    }
+  },
+  "ui_i18n": {
+    "en": {
+      "cta_get": "Find",
+      "search": "Search",
+      "request_call": "Request a call",
+      "calc_mortgage": "Calculate payment",
+      "get_pdf": "Get full project PDF",
+      "nearby": "Nearby landmarks",
+      "location": "Location",
+      "handover": "Handover",
+      "price_from": "Price From",
+      "details": "Details",
+      "developer": "Developer",
+      "property_type": "Property Type",
+      "unit_type": "Unit Type",
+      "size": "Size",
+      "down_payment": "Down Payment",
+      "payment_plan": "Payment Plan",
+      "description": "Description",
+      "home_caption": "Search across Sea Breeze projects in Baku",
+      "search_placeholder": "Find your home by the Caspian Sea…",
+      "clear": "Clear",
+      "results_search_placeholder": "Type your search…",
+      "dubai": "Baku",
+      "abu_dhabi": "Caspian coast",
+      "sharjah": "Sea Breeze",
+      "ras_al_khaimah": "Nardaran",
+      "typing_examples": [
+        "Find an apartment near the beach in Sea Breeze",
+        "A residence with sea view on the Caspian coast",
+        "Compare Sea Breeze projects with resort infrastructure"
+      ]
+    },
+    "ru": {
+      "cta_get": "Найти",
+      "search": "Поиск",
+      "request_call": "Заказать звонок",
+      "calc_mortgage": "Рассчитать платеж",
+      "get_pdf": "PDF проекта",
+      "nearby": "Рядом",
+      "location": "Локация",
+      "handover": "Сдача",
+      "price_from": "Цена от",
+      "details": "Детали",
+      "developer": "Девелопер",
+      "property_type": "Тип недвижимости",
+      "unit_type": "Тип юнитов",
+      "size": "Площадь",
+      "down_payment": "Первый взнос",
+      "payment_plan": "План оплаты",
+      "description": "Описание",
+      "home_caption": "Поиск по проектам Sea Breeze в Баку",
+      "search_placeholder": "Найдите дом у Каспийского моря…",
+      "clear": "Очистить",
+      "results_search_placeholder": "Введите ваш запрос…",
+      "dubai": "Баку",
+      "abu_dhabi": "Каспийское побережье",
+      "sharjah": "Sea Breeze",
+      "ras_al_khaimah": "Нардаран",
+      "typing_examples": [
+        "Найти апартаменты рядом с пляжем в Sea Breeze",
+        "Резиденция с видом на Каспийское море",
+        "Сравнить проекты Sea Breeze с курортной инфраструктурой"
+      ]
+    },
+    "ar": {
+      "cta_get": "ابحث",
+      "search": "بحث",
+      "request_call": "طلب مكالمة",
+      "calc_mortgage": "حساب الدفعة",
+      "get_pdf": "احصل على ملف PDF للمشروع",
+      "nearby": "معالم قريبة",
+      "location": "الموقع",
+      "handover": "التسليم",
+      "price_from": "السعر من",
+      "details": "التفاصيل",
+      "developer": "المطور",
+      "property_type": "نوع العقار",
+      "unit_type": "نوع الوحدات",
+      "size": "المساحة",
+      "down_payment": "الدفعة الأولى",
+      "payment_plan": "خطة الدفع",
+      "description": "الوصف",
+      "home_caption": "ابحث ضمن مشاريع Sea Breeze في باكو",
+      "search_placeholder": "اعثر على منزلك على بحر قزوين…",
+      "clear": "مسح",
+      "results_search_placeholder": "اكتب بحثك…",
+      "dubai": "باكو",
+      "abu_dhabi": "ساحل بحر قزوين",
+      "sharjah": "Sea Breeze",
+      "ras_al_khaimah": "نارداران",
+      "typing_examples": [
+        "ابحث عن شقة قرب الشاطئ في Sea Breeze",
+        "مسكن بإطلالة بحرية على بحر قزوين",
+        "قارن مشاريع Sea Breeze مع بنية تحتية منتجعية"
+      ]
+    },
+    "hi": {
+      "cta_get": "खोजें",
+      "search": "खोज",
+      "request_call": "कॉल रिक्वेस्ट करें",
+      "calc_mortgage": "पेमेंट कैलकुलेट करें",
+      "get_pdf": "प्रोजेक्ट PDF प्राप्त करें",
+      "nearby": "नज़दीकी स्थान",
+      "location": "लोकेशन",
+      "handover": "हैंडओवर",
+      "price_from": "कीमत से",
+      "details": "डिटेल्स",
+      "developer": "डेवलपर",
+      "property_type": "प्रॉपर्टी टाइप",
+      "unit_type": "यूनिट टाइप",
+      "size": "साइज़",
+      "down_payment": "डाउन पेमेंट",
+      "payment_plan": "पेमेंट प्लान",
+      "description": "विवरण",
+      "home_caption": "Baku में Sea Breeze प्रोजेक्ट्स में खोजें",
+      "search_placeholder": "Caspian Sea के पास अपना घर खोजें…",
+      "clear": "क्लियर",
+      "results_search_placeholder": "अपनी खोज लिखें…",
+      "dubai": "Baku",
+      "abu_dhabi": "Caspian coast",
+      "sharjah": "Sea Breeze",
+      "ras_al_khaimah": "Nardaran",
+      "typing_examples": [
+        "Sea Breeze में बीच के पास अपार्टमेंट खोजें",
+        "Caspian coast पर sea view residence",
+        "Sea Breeze projects with resort infrastructure compare करें"
+      ]
+    }
+  },
+  "project_cta_pdf": {
+    "label": "Get full project PDF",
+    "messages": {
+      "en": "Hello! I’m interested in the project {project} at Sea Breeze and would like more details and the full PDF. Project link: {url}",
+      "ru": "Здравствуйте! Меня интересует проект {project} в Sea Breeze. Хочу получить подробную информацию и полный PDF. Ссылка на проект: {url}",
+      "ar": "مرحبًا! أنا مهتم بمشروع {project} في Sea Breeze وأرغب في الحصول على مزيد من التفاصيل وملف PDF الكامل. رابط المشروع: {url}",
+      "hi": "नमस्ते! मुझे Sea Breeze में {project} प्रोजेक्ट में रुचि है और मैं अधिक जानकारी और पूरा PDF प्राप्त करना चाहता/चाहती हूँ। प्रोजेक्ट लिंक: {url}"
+    }
+  },
+  "project_cta_call": {
+    "label": "Request a call",
+    "messages": {
+      "en": "Hello! Please call me back regarding the project {project} at Sea Breeze. Project link: {url}",
+      "ru": "Здравствуйте! Пожалуйста, перезвоните мне по проекту {project} в Sea Breeze. Ссылка на проект: {url}",
+      "ar": "مرحبًا! من فضلك اتصل بي بخصوص مشروع {project} في Sea Breeze. رابط المشروع: {url}",
+      "hi": "नमस्ते! कृपया Sea Breeze में {project} प्रोजेक्ट के बारे में मुझे कॉल बैक करें। प्रोजेक्ट लिंक: {url}"
+    }
+  },
+  "address": {
+    "text": "Sea Breeze Resort, Nardaran, Baku, Azerbaijan"
+  },
+  "socials": [
+    {
+      "name": "Instagram",
+      "icon": "/icons/instagram.png",
+      "url": "https://www.instagram.com/seabreeze.realestate/"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "/icons/linkedin.png",
+      "url": "https://www.seabreeze.az/en/real-estate"
+    },
+    {
+      "name": "Facebook",
+      "icon": "/icons/facebook.png",
+      "url": "https://www.seabreeze.az/en/real-estate"
+    },
+    {
+      "name": "Telegram",
+      "icon": "/icons/telegram.png",
+      "url": "https://www.seabreeze.az/en/real-estate"
+    },
+    {
+      "name": "WhatsApp",
+      "icon": "/icons/whatsapp.png",
+      "url": "https://wa.me/994123110268"
+    }
+  ],
+  "footer": {
+    "title": "Sea Breeze property search, guided by real intent",
+    "subtitle": "Sea Breeze AI helps clients move from broad interest to the right project, residence type, lifestyle scenario and advisor — faster, cleaner and with less noise.",
+    "chips": [
+      "Sea Breeze projects",
+      "AI matched search",
+      "Advisor routing"
+    ],
+    "copyright": "© Sea Breeze - All rights reserved"
+  },
+  "home": {
+    "hero": {
+      "header": {
+        "badge": "Sea Breeze AI System",
+        "nav_aria": "Main navigation",
+        "nav": [
+          {
+            "label": "Top projects",
+            "href": "#projects",
+            "active": true
+          },
+          {
+            "label": "Masterplan",
+            "href": "#masterplan",
+            "active": false
+          },
+          {
+            "label": "AI search",
+            "href": "#ai-search",
+            "active": false
+          },
+          {
+            "label": "Contact",
+            "href": "#contact",
+            "active": false
+          }
+        ],
+        "cta": {
+          "label": "Book a call",
+          "href": "#contact"
+        }
+      },
+      "title": "Discover Sea Breeze property matched to your goals",
+      "subtitle": "One AI interface for apartments, villas, residences, lifestyle, investment logic and the full Caspian Sea masterplan.",
+      "featured": {
+        "aria": "Featured Sea Breeze project",
+        "image": "/img/projects/caspian-dream-liner/promo.jpg",
+        "alt": "Caspian Dream Liner at Sea Breeze on the Caspian Sea",
+        "title": "Caspian Dream Liner",
+        "meta": "Sea Breeze, Baku · Aparthotel · 2027",
+        "price": "50–838 m²",
+        "controls_aria": "Featured project controls",
+        "prev_label": "Previous project",
+        "next_label": "Next project"
+      },
+      "featured_projects": [
+        {
+          "image": "/img/projects/caspian-dream-liner/promo.jpg",
+          "alt": "Caspian Dream Liner at Sea Breeze on the Caspian Sea",
+          "title": "Caspian Dream Liner",
+          "meta": "Sea Breeze, Baku · Aparthotel · 2027",
+          "price": "50–838 m²"
+        },
+        {
+          "image": "/img/infrastructure/seabreeze.jpg",
+          "alt": "Sea Breeze masterplan and resort city on the Caspian coast",
+          "title": "Sea Breeze",
+          "meta": "Baku · Caspian Resort City · Masterplan"
+        },
+        {
+          "image": "/img/projects/blue-waters/promo.jpg",
+          "alt": "Blue Waters residential complex at Sea Breeze in Baku",
+          "title": "Blue Waters",
+          "meta": "Sea Breeze, Baku · Apartments · 2028",
+          "price": "44–587 m²"
+        },
+        {
+          "image": "/img/projects/sky-park/promo.jpg",
+          "alt": "Sky Park premium apartment complex at Sea Breeze",
+          "title": "Sky Park",
+          "meta": "Sea Breeze, Baku · Apartments · 2028",
+          "price": "52–89 m²"
+        }
+      ],
+      "search": {
+        "aria": "Sea Breeze AI property search",
+        "search_icon": "/img/search.png",
+        "voice_icon": "/img/voice.png",
+        "placeholder": "Find your home by the Caspian Sea…",
+        "button": "Find",
+        "chips": [
+          {
+            "label": "Sea view",
+            "query": "Show me Sea Breeze projects with sea view"
+          },
+          {
+            "label": "Dream Liner",
+            "query": "Show me Caspian Dream Liner at Sea Breeze"
+          },
+          {
+            "label": "Blue Waters",
+            "query": "Show me Blue Waters apartments at Sea Breeze"
+          },
+          {
+            "label": "Sky Park",
+            "query": "Show me Sky Park apartments at Sea Breeze"
+          },
+          {
+            "label": "Investment",
+            "query": "Find Sea Breeze projects with investment potential"
+          }
+        ],
+        "caption": "Search across Sea Breeze projects, apartments, aparthotels and resort residences",
+        "typing_examples": [
+          "Show me Sea Breeze projects with sea view and strong rental potential",
+          "Find apartments near the beach, restaurants and resort infrastructure",
+          "Compare Caspian Dream Liner, Blue Waters and Sky Park",
+          "Show me Caspian Dream Liner at Sea Breeze"
+        ]
+      }
+    },
+    "top_projects": {
+      "eyebrow": "Curated by Sea Breeze AI",
+      "title": "Top Sea Breeze projects",
+      "subtitle": "A first selection of Sea Breeze projects on the Caspian coast — aparthotels, residences and premium apartments matched to lifestyle and investment intent.",
+      "cards": [
+        {
+          "slug": "caspian-dream-liner",
+          "image": "/img/projects/caspian-dream-liner/promo.jpg",
+          "alt": "Caspian Dream Liner at Sea Breeze",
+          "title": "Caspian Dream Liner",
+          "meta": "Aparthotel · 11 floors · 2027",
+          "price": "50–838 m²",
+          "tags": [
+            "Aparthotel",
+            "Sea view"
+          ]
+        },
+        {
+          "slug": "blue-waters",
+          "image": "/img/projects/blue-waters/promo.jpg",
+          "alt": "Blue Waters residential complex at Sea Breeze",
+          "title": "Blue Waters",
+          "meta": "Apartments · 849 units · 2028",
+          "price": "44–587 m²",
+          "tags": [
+            "Apartments",
+            "Restaurants"
+          ]
+        },
+        {
+          "slug": "sky-park",
+          "image": "/img/projects/sky-park/promo.jpg",
+          "alt": "Sky Park premium apartments at Sea Breeze",
+          "title": "Sky Park",
+          "meta": "Apartments · 24 floors · 2028",
+          "price": "52–89 m²",
+          "tags": [
+            "High-tech",
+            "Sea views"
+          ]
+        }
+      ],
+      "ask": {
+        "collapsed_label": "Ask Sea Breeze AI",
+        "badge": "Sea Breeze AI",
+        "aria": "Ask Sea Breeze AI about Sea Breeze projects",
+        "placeholder": "Ask about Sea Breeze projects, lifestyle or investment logic…",
+        "button": "Ask",
+        "typing_examples": [
+          "Which Sea Breeze project fits a family near the beach?",
+          "Compare Caspian Dream Liner and Blue Waters",
+          "Show me investment-focused projects at Sea Breeze",
+          "Find premium apartments with sea views in Baku"
+        ]
+      }
+    },
+    "infrastructure": {
+      "eyebrow": "Sea Breeze infrastructure",
+      "title": "Resort infrastructure",
+      "subtitle": "Key places inside the Sea Breeze environment that shape everyday life, shopping, leisure and resort comfort.",
+      "cards": [
+        {
+          "key": "lighthouse-mall",
+          "image": "/img/infrastructure/lighthouse-mall.jpg",
+          "alt": "Lighthouse Mall at Sea Breeze in Baku",
+          "founded": "Shopping & leisure",
+          "title": "Lighthouse Mall",
+          "description": "A modern shopping and entertainment center with concept stores, global brands, electronics, home goods, cozy cafés and restaurants.",
+          "tags": [
+            "Shopping",
+            "Restaurants",
+            "Entertainment"
+          ]
+        },
+        {
+          "key": "emporium",
+          "image": "/img/infrastructure/emporium.jpg",
+          "alt": "Emporium concept store at Sea Breeze",
+          "founded": "Concept store",
+          "title": "Emporium",
+          "description": "A new format of the famous Baku concept store, offering clothing, accessories, cosmetics and home goods for women, men and children.",
+          "tags": [
+            "Fashion",
+            "Beauty",
+            "Home goods"
+          ]
+        },
+        {
+          "key": "dome-by-middle-east",
+          "image": "/img/infrastructure/dome-by-middle-east.jpg",
+          "alt": "Dome by Middle East pavilion and art space at Sea Breeze",
+          "founded": "Art space",
+          "title": "Dome by Middle East",
+          "description": "A multifunctional pavilion and art space combining shopping, cultural events, local and global brands, parties, performances and signature dining.",
+          "tags": [
+            "Art space",
+            "Events",
+            "Dining"
+          ]
+        }
+      ],
+      "ask": {
+        "collapsed_label": "Ask about infrastructure",
+        "badge": "Sea Breeze AI",
+        "aria": "Ask Sea Breeze AI about Sea Breeze infrastructure",
+        "placeholder": "Ask about shopping, restaurants, lifestyle or resort infrastructure…",
+        "button": "Ask",
+        "typing_examples": [
+          "What infrastructure is available inside Sea Breeze?",
+          "Show me shopping and restaurants near Sea Breeze residences",
+          "Which places support everyday living at Sea Breeze?",
+          "Tell me about Lighthouse Mall, Emporium and Dome"
+        ]
+      }
+    },
+    "intent_block": {
+      "eyebrow": "Buyer intent routes",
+      "title": "Explore by buyer intent",
+      "subtitle": "Start from the real question: lifestyle, view, project type, budget logic, family needs or investment scenario — then Sea Breeze AI routes the client to matching Sea Breeze projects.",
+      "routes_aria": "Popular buyer intent routes",
+      "note": "Each route opens a real search path: project pages, lifestyle logic, budget filters and residence recommendations.",
+      "routes": [
+        {
+          "label": "Best sea views",
+          "meta": "Lifestyle",
+          "query": "Show me Sea Breeze projects with the best sea views"
+        },
+        {
+          "label": "Family residences",
+          "meta": "Living",
+          "query": "Find family-friendly residences near beaches and infrastructure"
+        },
+        {
+          "label": "Aparthotel living",
+          "meta": "Resort format",
+          "query": "Show me aparthotel projects inside Sea Breeze"
+        },
+        {
+          "label": "Payment plan projects",
+          "meta": "Budget logic",
+          "query": "Find Sea Breeze projects with flexible payment logic"
+        },
+        {
+          "label": "Compact apartments",
+          "meta": "Entry format",
+          "query": "Show me compact apartments in Sea Breeze"
+        },
+        {
+          "label": "Premium residences",
+          "meta": "Caspian lifestyle",
+          "query": "Find premium Sea Breeze residences near the coastline"
+        },
+        {
+          "label": "Top projects",
+          "meta": "Project match",
+          "query": "Compare Caspian Dream Liner, Blue Waters and Sky Park"
+        },
+        {
+          "label": "Best place to live",
+          "meta": "Area match",
+          "query": "Which Sea Breeze project is best for everyday resort living?"
+        }
+      ],
+      "ask": {
+        "eyebrow": "Natural language search",
+        "title": "Ask Sea Breeze AI",
+        "subtitle": "Describe what the client wants in plain language. The system detects lifestyle, project type, view, budget logic and routes the request to the right Sea Breeze project.",
+        "badge": "Sea Breeze AI",
+        "aria": "Ask Sea Breeze AI by buyer intent",
+        "placeholder": "Ask by lifestyle, project, view or investment goal…",
+        "button": "Ask",
+        "typing_examples": [
+          "Find a family apartment near the beach in Sea Breeze",
+          "Which project has strong rental potential?",
+          "Compare Caspian Dream Liner and Blue Waters",
+          "Show me premium residences with sea views"
+        ],
+        "quick_examples": [
+          {
+            "label": "Sea view projects",
+            "query": "Which Sea Breeze projects have the best sea views?"
+          },
+          {
+            "label": "Family near beach",
+            "query": "Find family-friendly residences near the beach"
+          },
+          {
+            "label": "Resort lifestyle",
+            "query": "Show me resort-style residences in Sea Breeze"
+          }
+        ]
+      }
+    }
+  }
+}

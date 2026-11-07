@@ -1,0 +1,133 @@
+{
+  "project_key": "caspian-dream-liner",
+  "slug": "caspian-dream-liner",
+  "name": {
+    "en": "Caspian Dream Liner",
+    "ru": "Caspian Dream Liner",
+    "ar": "Caspian Dream Liner",
+    "hi": "Caspian Dream Liner"
+  },
+  "developer": {
+    "en": "Sea Breeze",
+    "ru": "Sea Breeze",
+    "ar": "Sea Breeze",
+    "hi": "Sea Breeze"
+  },
+  "location_text": {
+    "en": "Sea Breeze, Baku",
+    "ru": "Sea Breeze, Baku",
+    "ar": "Sea Breeze, Baku",
+    "hi": "Sea Breeze, Baku"
+  },
+  "hero_title": {
+    "en": "Caspian Dream Liner",
+    "ru": "Caspian Dream Liner",
+    "ar": "Caspian Dream Liner",
+    "hi": "Caspian Dream Liner"
+  },
+  "handover": {
+    "en": "2027",
+    "ru": "2027",
+    "ar": "2027",
+    "hi": "2027"
+  },
+  "price_from": {
+    "currency": "",
+    "amount": ""
+  },
+  "property_types": {
+    "en": [
+      "Aparthotel"
+    ],
+    "ru": [],
+    "ar": [],
+    "hi": []
+  },
+  "unit_types": {
+    "en": "",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "size": {
+    "en": "50–838 m²",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "down_payment": {
+    "en": "",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "payment_plan": {
+    "en": "",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "description": {
+    "en": "A fantastic 11-story aparthotel shaped like a snow-white liner sailing on the azure waves of the Caspian Sea. A man-made peninsula was created specifically for the Caspian Dream Liner. This masterpiece of modern architecture and engineering was designed by Adel Zehni. Number of floors: 11 floors. Area: 50–838 m². Apartments: 226. Delivery year: 2027. Finishing status: turnkey, furnished and equipped. Features: private pool, underground and above-ground parking, gallery of restaurants and boutiques.",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "promo_image": "/img/projects/caspian-dream-liner/promo.jpg",
+  "gallery": [
+    "/img/projects/caspian-dream-liner/gallery_1.jpg",
+    "/img/projects/caspian-dream-liner/gallery_2.jpg",
+    "/img/projects/caspian-dream-liner/gallery_3.jpg",
+    "/img/projects/caspian-dream-liner/gallery_4.jpg",
+    "/img/projects/caspian-dream-liner/gallery_5.jpg"
+  ],
+  "nearby_landmarks": {
+    "en": [],
+    "ru": [],
+    "ar": [],
+    "hi": []
+  },
+  "map": {
+    "address": {
+      "en": "Sea Breeze, Baku, Azerbaijan",
+      "ru": "Sea Breeze, Баку, Азербайджан",
+      "ar": "",
+      "hi": ""
+    },
+    "lat": 0,
+    "lng": 0
+  },
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+  "_search": {
+    "emirate": "",
+    "city": "baku",
+    "area": "sea-breeze",
+    "developer": "sea-breeze",
+    "property_types": [
+      "aparthotel"
+    ],
+    "bedrooms_min": 0,
+    "bedrooms_max": 0,
+    "handover_year": 2027,
+    "price_from_aed": 0,
+    "size_from_sqft": 0,
+    "tokens_extra": [
+      "sea breeze",
+      "caspian dream liner",
+      "caspian sea",
+      "aparthotel",
+      "liner",
+      "adel zehni",
+      "private pool",
+      "parking",
+      "restaurants",
+      "boutiques",
+      "baku",
+      "azerbaijan"
+    ]
+  }
+}

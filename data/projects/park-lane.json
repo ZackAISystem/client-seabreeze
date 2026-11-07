@@ -1,0 +1,132 @@
+{
+  "project_key": "park-lane",
+  "slug": "park-lane",
+  "name": {
+    "en": "Park Lane",
+    "ru": "Park Lane",
+    "ar": "Park Lane",
+    "hi": "Park Lane"
+  },
+  "developer": {
+    "en": "Sea Breeze",
+    "ru": "Sea Breeze",
+    "ar": "Sea Breeze",
+    "hi": "Sea Breeze"
+  },
+  "location_text": {
+    "en": "Sea Breeze, Baku",
+    "ru": "Sea Breeze, Baku",
+    "ar": "Sea Breeze, Baku",
+    "hi": "Sea Breeze, Baku"
+  },
+  "hero_title": {
+    "en": "Park Lane",
+    "ru": "Park Lane",
+    "ar": "Park Lane",
+    "hi": "Park Lane"
+  },
+  "handover": {
+    "en": "2028",
+    "ru": "2028",
+    "ar": "2028",
+    "hi": "2028"
+  },
+  "price_from": {
+    "currency": "",
+    "amount": ""
+  },
+  "property_types": {
+    "en": [
+      "Apartment"
+    ],
+    "ru": [],
+    "ar": [],
+    "hi": []
+  },
+  "unit_types": {
+    "en": "",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "size": {
+    "en": "30–293 m²",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "down_payment": {
+    "en": "",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "payment_plan": {
+    "en": "",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "description": {
+    "en": "A modern residential complex in a minimalist style. Stepped architecture, laconic lines, and transparent loggias with views. The four buildings are connected by green boulevards lined with rustling palm trees and landscaped decor. Number of floors: 14–16 floors. Area: 30–293 m². Apartments: 1756. Delivery year: 2028. Finishing status: rough finish. Features: underground parking, private pools, bars and restaurants.",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "promo_image": "/img/projects/park-lane/promo.jpg",
+  "gallery": [
+    "/img/projects/park-lane/gallery_1.jpg",
+    "/img/projects/park-lane/gallery_2.jpg",
+    "/img/projects/park-lane/gallery_3.jpg",
+    "/img/projects/park-lane/gallery_4.jpg",
+    "/img/projects/park-lane/gallery_5.jpg"
+  ],
+  "nearby_landmarks": {
+    "en": [],
+    "ru": [],
+    "ar": [],
+    "hi": []
+  },
+  "map": {
+    "address": {
+      "en": "Sea Breeze, Baku, Azerbaijan",
+      "ru": "Sea Breeze, Баку, Азербайджан",
+      "ar": "",
+      "hi": ""
+    },
+    "lat": 0,
+    "lng": 0
+  },
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+  "_search": {
+    "emirate": "",
+    "city": "baku",
+    "area": "sea-breeze",
+    "developer": "sea-breeze",
+    "property_types": [
+      "apartment"
+    ],
+    "bedrooms_min": 0,
+    "bedrooms_max": 0,
+    "handover_year": 2028,
+    "price_from_aed": 0,
+    "size_from_sqft": 0,
+    "tokens_extra": [
+      "sea breeze",
+      "park lane",
+      "caspian sea",
+      "apartments",
+      "minimalist style",
+      "green boulevards",
+      "private pools",
+      "bars",
+      "restaurants",
+      "baku",
+      "azerbaijan"
+    ]
+  }
+}

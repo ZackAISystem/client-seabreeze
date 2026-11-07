@@ -1,0 +1,132 @@
+{
+  "project_key": "park-residences-3",
+  "slug": "park-residences-3",
+  "name": {
+    "en": "Park Residences 3",
+    "ru": "Park Residences 3",
+    "ar": "Park Residences 3",
+    "hi": "Park Residences 3"
+  },
+  "developer": {
+    "en": "Sea Breeze",
+    "ru": "Sea Breeze",
+    "ar": "Sea Breeze",
+    "hi": "Sea Breeze"
+  },
+  "location_text": {
+    "en": "Sea Breeze, Baku",
+    "ru": "Sea Breeze, Baku",
+    "ar": "Sea Breeze, Baku",
+    "hi": "Sea Breeze, Baku"
+  },
+  "hero_title": {
+    "en": "Park Residences 3",
+    "ru": "Park Residences 3",
+    "ar": "Park Residences 3",
+    "hi": "Park Residences 3"
+  },
+  "handover": {
+    "en": "2026",
+    "ru": "2026",
+    "ar": "2026",
+    "hi": "2026"
+  },
+  "price_from": {
+    "currency": "",
+    "amount": ""
+  },
+  "property_types": {
+    "en": [
+      "Apartment"
+    ],
+    "ru": [],
+    "ar": [],
+    "hi": []
+  },
+  "unit_types": {
+    "en": "",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "size": {
+    "en": "57–158 m²",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "down_payment": {
+    "en": "",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "payment_plan": {
+    "en": "",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "description": {
+    "en": "The elegant Park Residences 3 residential complex represents the harmony of traditional European style and contemporary design solutions on the shores of the Caspian Sea. Panoramic windows and panoramic terraces, a spacious courtyard shaded by palm trees, and cozy lounge spaces create everything needed to enjoy the beauty of life. Number of floors: 9 floors. Area: 57–158 m². Apartments: 1620. Delivery year: 2026. Finishing status: unfinished. Features: underground and above-ground parking, private pool, summer terrace.",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+  "promo_image": "/img/projects/park-residences-3/promo.jpg",
+  "gallery": [
+    "/img/projects/park-residences-3/gallery_1.jpg",
+    "/img/projects/park-residences-3/gallery_2.jpg",
+    "/img/projects/park-residences-3/gallery_3.jpg",
+    "/img/projects/park-residences-3/gallery_4.jpg",
+    "/img/projects/park-residences-3/gallery_5.jpg"
+  ],
+  "nearby_landmarks": {
+    "en": [],
+    "ru": [],
+    "ar": [],
+    "hi": []
+  },
+  "map": {
+    "address": {
+      "en": "Sea Breeze, Baku, Azerbaijan",
+      "ru": "Sea Breeze, Баку, Азербайджан",
+      "ar": "",
+      "hi": ""
+    },
+    "lat": 0,
+    "lng": 0
+  },
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+  "_search": {
+    "emirate": "",
+    "city": "baku",
+    "area": "sea-breeze",
+    "developer": "sea-breeze",
+    "property_types": [
+      "apartment"
+    ],
+    "bedrooms_min": 0,
+    "bedrooms_max": 0,
+    "handover_year": 2026,
+    "price_from_aed": 0,
+    "size_from_sqft": 0,
+    "tokens_extra": [
+      "sea breeze",
+      "park residences 3",
+      "caspian sea",
+      "apartments",
+      "european style",
+      "panoramic windows",
+      "terraces",
+      "private pool",
+      "summer terrace",
+      "baku",
+      "azerbaijan"
+    ]
+  }
+}
